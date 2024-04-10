@@ -1,4 +1,4 @@
-# Ared Bus Clone
+# redBus Clone
 
 This project is a clone of the Ared Bus website, built using Tailwind CSS. It replicates the main functionalities and UI of the original Ared Bus website.
 
